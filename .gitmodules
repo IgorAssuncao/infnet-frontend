@@ -1,5 +1,5 @@
 [submodule "infnet-html-css-js"]
-	path = infnet-html-css-js
+	path = infnet-html-css
 	url = https://github.com/IgorAssuncao/infnet-html-css-js.git
 [submodule "infnet-js"]
 	path = infnet-js
