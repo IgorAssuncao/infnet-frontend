@@ -4,3 +4,6 @@
 [submodule "infnet-js"]
 	path = infnet-js
 	url = https://github.com/IgorAssuncao/infnet-js.git
+[submodule "infnet-vue"]
+	path = infnet-vue
+	url = https://github.com/IgorAssuncao/infnet-vue.git
