@@ -1,12 +1,9 @@
 [submodule "infnet-html-css-js"]
 	path = infnet-html-css
 	url = https://github.com/IgorAssuncao/infnet-html-css.git
-	branch = master
 [submodule "infnet-js"]
 	path = infnet-js
 	url = https://github.com/IgorAssuncao/infnet-js.git
-	branch = master
 [submodule "infnet-vue"]
 	path = infnet-vue
 	url = https://github.com/IgorAssuncao/infnet-vue.git
-	branch = master
